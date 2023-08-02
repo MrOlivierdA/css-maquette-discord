@@ -10,11 +10,8 @@ body {
 }
 
 .ordi {
-  padding: 8px 0px 20px 0px;
 }
-nav {
-  color: #fffffe;
-}
+
 ul {
   list-style-type: none;
   text-align: center;
@@ -35,7 +32,6 @@ li {
 h2 {
   color: #ff8906;
   text-transform: uppercase;
-  padding-top: 25px;
 }
 
 section {
@@ -46,9 +42,6 @@ section {
   border-radius: 10px;
   color: #0f0e17;
   font-weight: bold;
-}
-p {
-  padding: 0 25px 25px 25px;
 }
 
 footer {
