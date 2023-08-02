@@ -9,9 +9,6 @@ body {
   height: 100px;
 }
 
-.ordi {
-}
-
 ul {
   list-style-type: none;
   text-align: center;
@@ -45,10 +42,11 @@ section {
 }
 
 footer {
+  font-weight: bold;
   background-color: #e53170;
   position: fixed;
   left: 0;
   right: 0;
   bottom: 0;
-  padding: 16px 0 16px 0;
+  padding: 20px 0 20px 0;
 }
